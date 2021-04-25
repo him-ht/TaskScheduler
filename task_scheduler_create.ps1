@@ -1,11 +1,10 @@
 ﻿###########################################
-# Author: Himanshu tripathi
 # Script Name: taskscheduler_create.ps1
 # Version: 1.0
 ###########################################
 
 
-$script_path="C:\Users\hitripat\OneDrive - Capgemini\Desktop\Automation\AUTOMATION_SCRIPTS\Neste\TASK_SCHEDULER_CREATION"
+$script_path="<>"
 
 ######################### LOG Functions ############################
 $runuser=whoami
